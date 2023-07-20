@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Krdzalic</h1>
-<h3 align="center">Node | JavaScript Developer | Engineer</h3>
+<h3 align="center">Node | JavaScript Developer | Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ahmedkrdzalic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahmedkrdzalic" height="30" width="40" /></a>
+<a href="https://dev.to/ahmedkrdzalic" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="ahmedkrdzalic" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmedkrdzalic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedkrdzalic" height="30" width="40" /></a>
 </p>
 
