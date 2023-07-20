@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmed Krdzalic</h1>
-<h3 align="center">Node | JavaScript Developer | Software Engineer</h3>
+<h2 align="center">Hi 👋, I'm Ahmed Krdzalic</h2>
+<h5 align="center">JavaScript Developer | Node | Software Engineer</h5>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
